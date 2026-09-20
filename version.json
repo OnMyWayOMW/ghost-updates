@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
-  "message": "0.9.0 - автообнова",
-  "downloadUrl": "https://raw.githubusercontent.com/OnMyWayOMW/ghost-updates/main/ghost-autocoder-OnMyWay-0.9.0-AUTO-UPDATED.vsix"
+  "version": "0.10.0",
+  "url": "https://raw.githubusercontent.com/OnMyWayOMW/ghost-updates/main/ghost-autocoder-OnMyWay-0.10.0-WEB-LISTENER.vsix",
+  "notes": "WEB LISTENER - слушает задачи из task.json"
 }
